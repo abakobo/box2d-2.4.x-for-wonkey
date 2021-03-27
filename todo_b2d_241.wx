@@ -1,0 +1,5 @@
+b2d module 2.4.1 todo
+
+refaire "Bodies and Joints" avec stiffness/damping   ---> fait?
+
+checker b2API  tenter de remettre dans draw?
