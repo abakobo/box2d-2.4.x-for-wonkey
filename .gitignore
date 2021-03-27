@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# mx2 build directories
+
+# wonkey/mx2 build directories
 *.build*/
 *.products
 *.products*/
