@@ -1,5 +1,5 @@
 {
-	"module":"box2d24",
+	"module":"box2d",
 	"about":"box2d physics lib wrapper",
 	"author":"Erin Catto, wrapped by abakobo",
 	"version":"0.0.1",
